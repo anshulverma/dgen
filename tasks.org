@@ -1,44 +1,44 @@
 * Tasks
-** Define documentation language
+** TODO Define documentation language
 
 Maybe a flavor of markdown?
 
-*** Add some macros in markdown
+*** TODO Add some macros in markdown
 
 This can define things like import, TOC, footer, header etc.
 
-*** Add ability to execute macros
+*** TODO Add ability to execute macros
 
-*** import macro
+*** TODO import macro
 
 this allows to define a way to import another document
 
-*** TOC macro
+*** TODO TOC macro
 
 generate a TOC in its place
 
-*** footer/header macro
+*** TODO footer/header macro
 
 include a footer/header document
 
-** Conversion support
+** TODO Conversion support
 
-*** Allow documents to be written in markdown
+*** TODO Allow documents to be written in markdown
 
-*** Allow litcoffee documents
+*** TODO Allow litcoffee documents
 
-*** Allow plain text files
+*** TODO Allow plain text files
 
-** Fetch from different sources
+** TODO Fetch from different sources
 
-*** local file system
+*** TODO local file system
 
-*** self repository
+*** TODO self repository
 
-*** remote github repository
+*** TODO remote github repository
 
-** automated referential integrity checks
+** TODO automated referential integrity checks
 
-*** Command to check if the document is up to date based on reference updates
+*** TODO Command to check if the document is up to date based on reference updates
 
-*** Integration with build systems
+*** TODO Integration with build systems
